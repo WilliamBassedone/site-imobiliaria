@@ -28,8 +28,11 @@ Site-Imobiliaria/
 ## Como visualizar
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd Site-Imobiliaria
+# Clone o repositório
+git clone https://github.com/WilliamBassedone/site-imobiliaria.git
+
+# Acesse a pasta
+cd site-imobiliaria
 ```
 
 Abra o `index.html` no navegador. Nenhuma dependência necessária.
