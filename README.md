@@ -30,9 +30,6 @@ Site-Imobiliaria/
 ```bash
 # Clone o repositório
 git clone https://github.com/WilliamBassedone/site-imobiliaria.git
-
-# Acesse a pasta
-cd site-imobiliaria
 ```
 
 Abra o `index.html` no navegador. Nenhuma dependência necessária.
